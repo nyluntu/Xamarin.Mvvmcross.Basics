@@ -3,12 +3,18 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{C44A34C2-2822-4695-82BE-E02386C50C1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.UI.Droid", "Calculator.UI.Droid\Calculator.UI.Droid.csproj", "{AAFA0B56-8CE9-4421-A859-8B6872F839DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAFA0B56-8CE9-4421-A859-8B6872F839DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAFA0B56-8CE9-4421-A859-8B6872F839DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAFA0B56-8CE9-4421-A859-8B6872F839DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAFA0B56-8CE9-4421-A859-8B6872F839DD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C44A34C2-2822-4695-82BE-E02386C50C1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{C44A34C2-2822-4695-82BE-E02386C50C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C44A34C2-2822-4695-82BE-E02386C50C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
